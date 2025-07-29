@@ -1,0 +1,34 @@
+body{
+    background-color: aquamarine;
+    
+    
+}
+.d1{
+    color:burlywood;
+    
+}
+#d1{
+    text-align: center;
+    color: rgb(25, 14, 102);
+}
+#text1{
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 1%;
+    margin-top:  20px;
+}
+.site-header{
+    background-image: url("tshe.png");
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    color :white;
+    flex-direction: column;
+    justify-content: center;
+
+}
+#title-header{
+    text-align: center;
+    padding: 20%;
+}
